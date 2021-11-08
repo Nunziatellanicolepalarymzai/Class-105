@@ -1,0 +1,6 @@
+sigma	=	population standard deviation
+N	=	the size of the population
+x_i	=	each value from the population
+\mu	=	the population mean
+standardDevition is a measure of how spread out a data sett is
+without calculating the standard deviation of the data we cannot know whether the data is close to the average or the data is spread out over a wide range
